@@ -1,3 +1,8 @@
+/*
+ * library sources:
+ * LiquidCrystal_I2C - https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library (git)
+ */
+ 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 
